@@ -1,5 +1,4 @@
 const one = document.querySelector('#one')
-const wordNotFound = document.querySelector('.word_not_found')
 
 const word = ['wordle', 'word', 'game', 'chiken', 'cat', 'dog', 'human']
 
